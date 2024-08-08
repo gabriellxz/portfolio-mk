@@ -9,10 +9,10 @@ export default function Header() {
                 Maria <span className="uppercase text-yellow-500">Kemily</span>
             </div>
             <div className="flex gap-5 text-white">
-                <span className="cursor-pointer hover:text-yellow-500">Iníco</span>
-                <span className="cursor-pointer hover:text-yellow-500">Sobre mim</span>
-                <span className="cursor-pointer hover:text-yellow-500">Meus trabalhos</span>
-                <span className="cursor-pointer hover:text-yellow-500">Fale comigo</span>
+                <a href="#home" className="cursor-pointer hover:text-yellow-500">Iníco</a>
+                <a href="#about" className="cursor-pointer hover:text-yellow-500">Sobre mim</a>
+                <a href="#works" className="cursor-pointer hover:text-yellow-500">Meus trabalhos</a>
+                <a href="#contactme" className="cursor-pointer hover:text-yellow-500">Fale comigo</a>
             </div>
         </header>
     )

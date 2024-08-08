@@ -4,7 +4,7 @@ import StarIcon from "../svg/icon-star";
 
 export default function MainProjects() {
     return (
-        <main className="w-full h-screen bg-purpleK-200 pt-[100px]">
+        <main className="w-full h-screen bg-purpleK-200 pt-[100px]" id="works">
             <h1 className="text-white text-5xl font-semibold text-center">Meus <span className="text-yellow-500">Trabalhos</span></h1>
             <div className="flex w-full justify-center pt-[100px] px-5">
                 <div className="flex w-full gap-5 overflow-x-scroll p-5 scrollbar-thin scrollbar-thumb-purpleK-100 scrollbar-track-purpleK-200 scroll">
