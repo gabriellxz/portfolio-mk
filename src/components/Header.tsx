@@ -24,7 +24,7 @@ export default function Header() {
                 <div className="text-xl text-white">
                     Maria <span className="uppercase text-yellow-500">Kemily</span>
                 </div>
-                <div className="gap-5 text-white">
+                <div className="flex gap-5 text-white">
                     <a href="#home" className="cursor-pointer hover:text-yellow-500">Iníco</a>
                     <a href="#about" className="cursor-pointer hover:text-yellow-500">Sobre mim</a>
                     <a href="#works" className="cursor-pointer hover:text-yellow-500">Meus trabalhos</a>
