@@ -5,7 +5,7 @@ export default function MainAbout() {
                 <h1 className="text-5xl text-white font-semibold">Sobre <span className="text-yellow-500">Mim</span></h1>
                 <div className="pt-5 max-w-[800px] w-full">
                     <p className="text-justify text-white text-xl">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus voluptatem numquam quos, modi aspernatur ex hic asperiores aperiam obcaecati atque adipisci dolor consectetur a at, porro sequi voluptate. Sapiente, quia. Lorem ipsum dolor sit amet, <span className="text-yellow-500">consectetur adipisicing elit</span>. Dolorum suscipit necessitatibus eligendi deserunt culpa veritatis ab at tenetur? Consequuntur deleniti ipsa dolorum perspiciatis. Maiores, mollitia optio! <span className="text-yellow-500">consectetur adipisicing elit</span>. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident porro facere laboriosam repellat commodi? Dignissimos, minus repellendus. <span className="text-yellow-500">consectetur adipisicing elit </span>, optio aut aliquam sequi.
+                        Tenho 17 anos, moro em Redenção-CE e estou cursando informática na escola Adoldo Ferreira de Sousa. Meu interesse por design gráfico, captação de vídeo e imagens, e criação de conteúdo para redes sociais surgiu através do curso. Atualmente, também estou fazendo um curso de Marketing Digital oferecido pela escola, onde estou expandindo minhas habilidades e explorando novas formas de comunicação visual.
                     </p>
                 </div>
             </div>
