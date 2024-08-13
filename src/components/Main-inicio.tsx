@@ -7,7 +7,7 @@ export default function MainInicio() {
                 <p className="text-2xl">Olá, meu nome é</p>
                 <p className="text-5xl">
                     Maria <span className="text-yellow-500">Kemily</span>,<br />
-                    Eu sou desinger <span className="text-yellow-500">&</span> filmaker.
+                    Eu sou designer <span className="text-yellow-500">&</span> filmmaker.
                 </p>
             </div>
             <div>
